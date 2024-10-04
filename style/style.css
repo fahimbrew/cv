@@ -95,3 +95,47 @@ hr {
     width: 100%;
     margin: 20px auto;
 }
+
+.edu-template-left {
+    float: left;
+}
+
+.edu-template-right {
+    float: right;
+}
+
+#education-info a {
+    text-decoration: none;
+    color: rgb(20, 12, 12);
+}
+
+#education-info a:hover {
+    background-color: rgb(187, 176, 162);
+    text-decoration: underline;
+    transition: 0.25s ease-in;
+}
+
+/* footer styles */
+.footer {
+    background-color: rgb(20, 15, 15);
+    /* color: azure; */
+    text-align: center;
+    padding: 10px;
+}
+
+.footer a {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.footer p {
+    color: azure;
+    margin-top: 20px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    color: beige;
+    transition: 0.25s ease-in;
+}
