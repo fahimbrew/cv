@@ -69,3 +69,29 @@ hr {
     margin: 20px auto;
     border-bottom: none;
 }
+
+/* personal section styles */
+#personal-info {}
+
+.content {
+    margin-bottom: 30px;
+}
+
+.left-div {
+    width: 30%;
+    float: left;
+
+}
+
+.right-div {
+    width: 70%;
+    float: right;
+}
+
+/* common horizental rule */
+.common-hr {
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
